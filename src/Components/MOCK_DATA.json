@@ -1,0 +1,150 @@
+[
+  {
+    "id": 1,
+    "full_name": "Amaravathi"
+  },
+  {
+    "id": 2,
+    "full_name": "Andhra Pradesh"
+  },
+  {
+    "id": 3,
+    "full_name": "Arunachal Pradesh"
+  },
+  {
+    "id": 4,
+    "full_name": "Assam"
+  },
+  {
+    "id": 5,
+    "full_name": "Andaman & Nicobar"
+  },
+  {
+    "id": 6,
+    "full_name": "Bihar"
+  },
+  {
+    "id": 7,
+    "full_name": "Chandigarh"
+  },
+  {
+    "id": 8,
+    "full_name": "Chattisgarh"
+  },
+  {
+    "id": 9,
+    "full_name": "Dadra & Nagar Haveli"
+  },
+  {
+    "id": 10,
+    "full_name": "Delhi"
+  },
+  {
+    "id": 11,
+    "full_name": "Goa"
+  },
+  {
+    "id": 12,
+    "full_name": "Gujarat"
+  },
+  {
+    "id": 13,
+    "full_name": "Gangtok"
+  },
+  {
+    "id": 14,
+    "full_name": "Haryana"
+  },
+  {
+    "id": 15,
+    "full_name": "Himachal Pradesh"
+  },
+  {
+    "id": 16,
+    "full_name": "Jammu & Kashmir"
+  },
+  {
+    "id": 17,
+    "full_name": "Jharkhand"
+  },
+  {
+    "id": 18,
+    "full_name": "Karnataka"
+  },
+  {
+    "id": 19,
+    "full_name": "Kerala"
+  },
+  {
+    "id": 20,
+    "full_name": "Ladakh"
+  },
+  {
+    "id": 21,
+    "full_name": "Madhya Pradesh"
+  },
+  {
+    "id": 22,
+    "full_name": "Maharasthra"
+  },
+  {
+    "id": 23,
+    "full_name": "Manipur"
+  },
+  {
+    "id": 24,
+    "full_name": "Meghalaya"
+  },
+  {
+    "id": 25,
+    "full_name": "Mizoram"
+  },
+  {
+    "id": 26,
+    "full_name": "Nagaland"
+  },
+  {
+    "id": 27,
+    "full_name": "Odisha"
+  },
+  {
+    "id": 28,
+    "full_name": "Puducherry"
+  },
+  {
+    "id": 29,
+    "full_name": "Punjab"
+  },
+  {
+    "id": 30,
+    "full_name": "Rajasthan"
+  },
+  {
+    "id": 31,
+    "full_name": "Sikkim"
+  },
+  {
+    "id": 32,
+    "full_name": "Tamil Nadu"
+  },
+  {
+    "id": 33,
+    "full_name": "Telangana"
+  },
+  {
+    "id": 34,
+    "full_name": "Tripura"
+  },
+  {
+    "id": 35,
+    "full_name": "Uttar Pradesh"
+  },
+  {
+    "id": 36,
+    "full_name": "Uttarkhand"
+  },
+  {
+    "id": 37,
+    "full_name": "West Bengal"
+  }
+]

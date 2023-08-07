@@ -1,0 +1,69 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  @import url("https://fonts.googleapis.com/css?family=Assistant");
+  body {
+    background: #eee;
+    border: 2px solid black;
+    font-family: Assistant, sans-serif;
+  }
+  
+  .cell-1 {
+    border-collapse: separate;
+    border-spacing: 0 4em;
+    background:white;
+    border-bottom: 5px solid transparent;
+    /*background-color: gold;*/
+    background-clip: padding-box;
+    border: 1px solid black;
+  }
+  
+  thead {
+    background: #dddcdc;
+    border: 1px solid black;
+  }
+  
+  .toggle-btn {
+    width: 40px;
+    height: 21px;
+    background: grey;
+    border-radius: 50px;
+    padding: 3px;
+    cursor: pointer;
+    -webkit-transition: all 0.3s 0.1s ease-in-out;
+    -moz-transition: all 0.3s 0.1s ease-in-out;
+    -o-transition: all 0.3s 0.1s ease-in-out;
+    transition: all 0.3s 0.1s ease-in-out;
+  }
+  
+  .toggle-btn > .inner-circle {
+    width: 15px;
+    height: 15px;
+    background: #fff;
+    border-radius: 50%;
+    -webkit-transition: all 0.3s 0.1s ease-in-out;
+    -moz-transition: all 0.3s 0.1s ease-in-out;
+    -o-transition: all 0.3s 0.1s ease-in-out;
+    transition: all 0.3s 0.1s ease-in-out;
+  }
+  
+  .toggle-btn.active {
+    background: blue !important;
+  }
+  
+  .toggle-btn.active > .inner-circle {
+    margin-left: 19px;
+  }
+  .container2{
+    height: 100px;
+    width: 500px;
+    padding: 5px;
+    background-color:white;
+    // box-shadow: 2px 2px 2px 2px;
+  }
+  .card{
+    padding: 5px;
+    height: 500px;
+    width: 500px;
+  }

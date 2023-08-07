@@ -1,0 +1,235 @@
+{
+  "posts": [
+    {
+      "Name": "Sandhya",
+      "Address": "Hyderabad",
+      "Phone_number": 9807867856
+    }
+  ],
+  "details": [
+    {
+      "name": "Akshaya",
+      "id": 1,
+      "address": "Banglore",
+      "phone": 9081234534
+    },
+    {
+      "name": "asdad",
+      "address": "asdasdasda",
+      "phone": "asdasdasdasdas",
+      "id": 2
+    },
+    {
+      "name": "asdad",
+      "address": "asdasdasda",
+      "phone": "asdasdasda",
+      "id": 3
+    },
+    {
+      "name": "asdad",
+      "address": "asdasdasda",
+      "phone": "asdasdasda",
+      "id": 4
+    },
+    {
+      "name": "asdad",
+      "address": "asdasdasda",
+      "phone": "asdasdasda",
+      "id": 5
+    },
+    {
+      "name": "asdad",
+      "address": "asdasdasda",
+      "phone": "asdasdasda",
+      "id": 6
+    },
+    {
+      "name": "asdad",
+      "address": "asdasdasda",
+      "phone": "asdasdasda",
+      "id": 7
+    },
+    {
+      "name": "asdad",
+      "address": "asdasdasda",
+      "phone": "asdasdasda",
+      "id": 8
+    },
+    {
+      "name": "asdad",
+      "address": "asdasdasda",
+      "phone": "asdasdasda",
+      "id": 9
+    },
+    {
+      "name": "asdad",
+      "address": "asdasdasda",
+      "phone": "asdasdasda",
+      "id": 10
+    },
+    {
+      "name": "asdad",
+      "address": "asdasdasda",
+      "phone": "asdasdasda",
+      "id": 11
+    },
+    {
+      "name": "asdad",
+      "address": "asdasdasda",
+      "phone": "asdasdasda",
+      "id": 12
+    },
+    {
+      "name": "asdad",
+      "address": "asdasdasda",
+      "phone": "asdasdasda",
+      "id": 13
+    },
+    {
+      "name": "asdad",
+      "address": "asdasdasda",
+      "phone": "asdasdasda",
+      "id": 14
+    },
+    {
+      "name": "asda",
+      "address": "asdasasdas",
+      "phone": "1234561234",
+      "id": 15
+    },
+    {
+      "name": "asda",
+      "address": "asdasasdas",
+      "phone": "1234561234",
+      "id": 16
+    },
+    {
+      "name": "asda",
+      "address": "asdasasdas",
+      "phone": "1234561234",
+      "id": 17
+    },
+    {
+      "name": "asda",
+      "address": "asdasasdas",
+      "phone": "1234561234",
+      "id": 18
+    },
+    {
+      "name": "dsfvd",
+      "address": "sdsdsfsdfasd",
+      "phone": "1231231231",
+      "id": 19
+    },
+    {
+      "name": "",
+      "address": "",
+      "phone": "",
+      "id": 20
+    },
+    {
+      "name": "asasd",
+      "address": "asdadaasda",
+      "phone": "asdasdasda",
+      "id": 21
+    },
+    {
+      "name": "asasd",
+      "address": "asdadaasda",
+      "phone": "asdasdasda",
+      "id": 22
+    },
+    {
+      "name": "asasd",
+      "address": "asdadaasda",
+      "phone": "asdasdasdajn",
+      "id": 23
+    },
+    {
+      "name": "asasd",
+      "address": "asdadaasda",
+      "phone": "asdasdasda",
+      "id": 24
+    },
+    {
+      "name": "asasd",
+      "address": "asdadaasda",
+      "phone": "asdasdasda",
+      "id": 25
+    },
+    {
+      "name": "asasd",
+      "address": "asdadaasda",
+      "phone": "asdasdasda",
+      "id": 26
+    },
+    {
+      "name": "asasd",
+      "address": "asdadaasda",
+      "phone": "asdasdasda",
+      "id": 27
+    },
+    {
+      "name": "asasd",
+      "address": "asdadaasda",
+      "phone": "asdasdasda",
+      "id": 28
+    },
+    {
+      "name": "hgv",
+      "address": "fghjkfghkgh",
+      "phone": "dfghgfghgg",
+      "id": 29
+    },
+    {
+      "name": "",
+      "address": "",
+      "phone": "",
+      "id": 30
+    },
+    {
+      "name": "szxzzx",
+      "address": "aSDSADSADASSDA",
+      "phone": "AsASasASas",
+      "id": 31
+    },
+    {
+      "name": "szxzzx",
+      "address": "aSDSADSADASSDA",
+      "phone": "AsASasASas",
+      "id": 32
+    },
+    {
+      "name": "nh bnjb",
+      "address": "jhbb ",
+      "phone": "jbhhjbnj",
+      "id": 33
+    },
+    {
+      "name": "nh bnjb",
+      "address": "jhbb hjbvbvj",
+      "phone": "jbhhjbnjsd",
+      "id": 34
+    },
+    {
+      "name": "xdfvd",
+      "address": "",
+      "phone": "",
+      "id": 35
+    },
+    {
+      "name": "fgfcg",
+      "address": "bhhjbkjnkkjnk",
+      "phone": "1244445566",
+      "id": 36
+    }
+  ],
+  "details1": [
+    {
+      "name": "Aradhya",
+      "id": 1,
+      "address": "Banglore",
+      "phone": 9081234534
+    }
+  ]
+}
